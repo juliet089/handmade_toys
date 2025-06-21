@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d67d95e5-9c85-4e00-a1bc-a6d633c8ea45" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="page" />
+        <option value="Footer" />
+        <option value="ProductCard" />
+        <option value="JavaScript File" />
+        <option value="Navbar" />
+        <option value="productItem" />
+        <option value="+page.svelte" />
+        <option value="+err" />
+        <option value="+page" />
+        <option value="ChangeQuantityForm" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/backend/package-lock.json" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2vMimN4yvfzdmm0Nv7L4WkQqwn8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/store-app/backend/models",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "npm.dev (1).executor": "Run",
+    "npm.dev.executor": "Run",
+    "npm.dev1.executor": "Run",
+    "npm.start.executor": "Run",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "ts.external.directory.path": "C:\\store-app\\backend\\node_modules\\bcryptjs\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="QodanaHighlightedReportService">
+    <option name="localRunNotPublishedPersistedInfo">
+      <LocalReportPersistedInfo>
+        <option name="path" value="C:\Users\lenam\AppData\Local\Temp\qodana_output\qodana.sarif.json" />
+        <option name="reportGuid" value="acab6c8c-4ecc-4540-afca-6b5b63de6529" />
+        <option name="reportName" value="store-app/qodana/2025-05-22" />
+      </LocalReportPersistedInfo>
+    </option>
+  </component>
+  <component name="QodanaIsSelectedPersistenceService">
+    <option name="selectedOrLoading" value="true" />
+  </component>
+  <component name="QodanaReportsService">
+    <option name="descriptions">
+      <ReportDescription localRun="true" path="C:\Users\lenam\AppData\Local\Temp\qodana_output\qodana.sarif.json" reportGuid="acab6c8c-4ecc-4540-afca-6b5b63de6529" reportId="store-app/qodana/2025-05-22" />
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\store-app\backend\models" />
+      <recent name="C:\store-app\backend\routers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\store-app\frontend\src\routes" />
+      <recent name="C:\store-app\frontend\src\routes\products\err" />
+      <recent name="C:\store-app\frontend\static\products" />
+      <recent name="C:\store-app\frontend\src\components\base" />
+      <recent name="C:\store-app\frontend\src\routes\shopping-cart" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.dev (1)">
+    <configuration name="dev (1)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/frontend/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/backend/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="dev1" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/frontend/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev1" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/backend/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev (1)" />
+        <item itemvalue="npm.dev" />
+        <item itemvalue="npm.start" />
+        <item itemvalue="npm.dev1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-WS-243.26053.12" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d67d95e5-9c85-4e00-a1bc-a6d633c8ea45" name="Changes" comment="" />
+      <created>1743961501245</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743961501245</updated>
+      <workItem from="1743961502448" duration="951000" />
+      <workItem from="1743962863164" duration="1257000" />
+      <workItem from="1743964137688" duration="1238000" />
+      <workItem from="1744894052035" duration="127000" />
+      <workItem from="1744894571360" duration="12000" />
+      <workItem from="1747208170186" duration="5864000" />
+      <workItem from="1747219342368" duration="14835000" />
+      <workItem from="1747302797869" duration="82279000" />
+      <workItem from="1747823253988" duration="17869000" />
+      <workItem from="1747846173087" duration="15455000" />
+      <workItem from="1747904910473" duration="1624000" />
+      <workItem from="1747906619667" duration="8965000" />
+      <workItem from="1748336757121" duration="19648000" />
+      <workItem from="1748507472669" duration="34044000" />
+      <workItem from="1748602935556" duration="1038000" />
+      <workItem from="1748604008883" duration="570000" />
+      <workItem from="1748604595850" duration="579000" />
+      <workItem from="1748605207631" duration="863000" />
+      <workItem from="1748606083164" duration="14934000" />
+      <workItem from="1748719460653" duration="2075000" />
+      <workItem from="1748721548568" duration="17568000" />
+      <workItem from="1749295953110" duration="48088000" />
+      <workItem from="1749553395858" duration="2873000" />
+      <workItem from="1749630935350" duration="39872000" />
+      <workItem from="1749935708329" duration="22555000" />
+      <workItem from="1750148184325" duration="9962000" />
+      <workItem from="1750174930814" duration="52601000" />
+      <workItem from="1750278599344" duration="4990000" />
+      <workItem from="1750285476036" duration="13723000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

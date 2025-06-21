@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/temp" />
+      <excludeFolder url="file://$MODULE_DIR$/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/frontend/.svelte-kit" />
+      <excludeFolder url="file://$MODULE_DIR$/backend/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/backend/node_modules/balanced-match" />
+      <excludeFolder url="file://$MODULE_DIR$/backend/node_modules/cookie" />
+      <excludeFolder url="file://$MODULE_DIR$/backend/node_modules/cookie-signature" />
+      <excludeFolder url="file://$MODULE_DIR$/backend/node_modules/raw-body" />
+      <excludeFolder url="file://$MODULE_DIR$/backend/node_modules/statuses" />
+      <excludeFolder url="file://$MODULE_DIR$/frontend/.svelte-kit/generated/server" />
+      <excludeFolder url="file://$MODULE_DIR$/backend/node_modules/ignore-by-default" />
+      <excludeFolder url="file://$MODULE_DIR$/_old.frontend" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules/.bin" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea" />
+    </content>
+    <content url="file://$MODULE_DIR$/backend/node_modules" />
+    <content url="file://$MODULE_DIR$/backend/node_modules/.bin" />
+    <content url="file://$MODULE_DIR$/backend/node_modules/balanced-match" />
+    <content url="file://$MODULE_DIR$/backend/node_modules/bcrypt" />
+    <content url="file://$MODULE_DIR$/backend/node_modules/bcryptjs" />
+    <content url="file://$MODULE_DIR$/backend/node_modules/body-parser" />
+    <content url="file://$MODULE_DIR$/backend/node_modules/cookie" />
+    <content url="file://$MODULE_DIR$/backend/node_modules/cookie-signature" />
+    <content url="file://$MODULE_DIR$/backend/node_modules/cors" />
+    <content url="file://$MODULE_DIR$/backend/node_modules/debug" />
+    <content url="file://$MODULE_DIR$/backend/node_modules/express" />
+    <content url="file://$MODULE_DIR$/backend/node_modules/express-session" />
+    <content url="file://$MODULE_DIR$/backend/node_modules/function-bind" />
+    <content url="file://$MODULE_DIR$/backend/node_modules/http-errors" />
+    <content url="file://$MODULE_DIR$/backend/node_modules/ignore-by-default" />
+    <content url="file://$MODULE_DIR$/backend/node_modules/methods" />
+    <content url="file://$MODULE_DIR$/backend/node_modules/mysql2" />
+    <content url="file://$MODULE_DIR$/backend/node_modules/named-placeholders" />
+    <content url="file://$MODULE_DIR$/backend/node_modules/node-addon-api" />
+    <content url="file://$MODULE_DIR$/backend/node_modules/node-gyp-build" />
+    <content url="file://$MODULE_DIR$/backend/node_modules/nodemon" />
+    <content url="file://$MODULE_DIR$/backend/node_modules/object-inspect" />
+    <content url="file://$MODULE_DIR$/backend/node_modules/on-headers" />
+    <content url="file://$MODULE_DIR$/backend/node_modules/parseurl" />
+    <content url="file://$MODULE_DIR$/backend/node_modules/passport" />
+    <content url="file://$MODULE_DIR$/backend/node_modules/passport-local" />
+    <content url="file://$MODULE_DIR$/backend/node_modules/passport-strategy" />
+    <content url="file://$MODULE_DIR$/backend/node_modules/proxy-addr" />
+    <content url="file://$MODULE_DIR$/backend/node_modules/raw-body" />
+    <content url="file://$MODULE_DIR$/backend/node_modules/sqlstring" />
+    <content url="file://$MODULE_DIR$/backend/node_modules/statuses" />
+    <content url="file://$MODULE_DIR$/backend/node_modules/supports-color" />
+    <content url="file://$MODULE_DIR$/frontend/.svelte-kit/generated" />
+    <content url="file://$MODULE_DIR$/frontend/.svelte-kit/generated/server" />
+    <content url="file://$MODULE_DIR$/frontend/node_modules/@sveltejs/kit/src/runtime/client" />
+    <content url="file://$MODULE_DIR$/frontend/node_modules/@tailwindcss" />
+    <content url="file://$MODULE_DIR$/frontend/node_modules/flowbite" />
+    <content url="file://$MODULE_DIR$/frontend/node_modules/flowbite/dist" />
+    <content url="file://$MODULE_DIR$/frontend/node_modules/flowbite/lib" />
+    <content url="file://$MODULE_DIR$/node_modules/.bin" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
